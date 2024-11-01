@@ -16,7 +16,7 @@ Here are some tips to run the ADMM-HFNet:
 
 
 If you want to use the ADMM-HFNet as one of your comparison methods, please kindly cite the article : Shen D, Liu J, Wu Z, et al. Admm-hfnet: A matrix decomposition based deep approach for
-hyperspectral image fusion[J]. IEEE Transactions on Geoscience and Remote Sensing, 2021, early access, doi:10.1109/TGRS.2021.3112181.
+hyperspectral image fusion[J]. IEEE Transactions on Geoscience and Remote Sensing, 2022, doi:10.1109/TGRS.2021.3112181.
 
 If you have other problems about the article or the codes, please contact us by this email: sdb_2012@163.com. Thanks for your support.
 
